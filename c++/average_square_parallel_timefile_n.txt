@@ -1,0 +1,32 @@
+
+average time taken for parallel enlarging with square splines with 1 threads: 0.740415
+
+average time taken for parallel enlarging with square splines with 2 threads: 0.373169
+
+average time taken for parallel enlarging with square splines with 3 threads: 0.267848
+
+average time taken for parallel enlarging with square splines with 4 threads: 0.222252
+
+average time taken for parallel enlarging with square splines with 5 threads: 0.201982
+
+average time taken for parallel enlarging with square splines with 6 threads: 0.180709
+
+average time taken for parallel enlarging with square splines with 7 threads: 0.165595
+
+average time taken for parallel enlarging with square splines with 8 threads: 0.162685
+
+average time taken for parallel enlarging with square splines with 9 threads: 0.168421
+
+average time taken for parallel enlarging with square splines with 10 threads: 0.167924
+
+average time taken for parallel enlarging with square splines with 11 threads: 0.168599
+
+average time taken for parallel enlarging with square splines with 12 threads: 0.168821
+
+average time taken for parallel enlarging with square splines with 13 threads: 0.170271
+
+average time taken for parallel enlarging with square splines with 14 threads: 0.167308
+
+average time taken for parallel enlarging with square splines with 15 threads: 0.167542
+
+average time taken for parallel enlarging with square splines with 16 threads: 0.169756

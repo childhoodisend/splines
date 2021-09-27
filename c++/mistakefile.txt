@@ -1,0 +1,23 @@
+simple_linear.jpg
+string_average_red_mistake, string_average_green_mistake, string_average_blue_mistake: 1.42547 1.12156 1.19392
+string_pixel_mistake: 3.74096
+row_average_red_mistake, row_average_green_mistake, row_average_blue_mistake: 1.43271 1.17221 1.20116
+row_pixel_mistake: 3.80608
+simple_square.jpg
+string_average_red_mistake, string_average_green_mistake, string_average_blue_mistake: 2.01881 1.00579 2.17077
+string_pixel_mistake: 5.19537
+row_average_red_mistake, row_average_green_mistake, row_average_blue_mistake: 2.08394 1.0275 2.2576
+row_pixel_mistake: 5.36903
+parallel_linear.jpg
+string_average_red_mistake, string_average_green_mistake, string_average_blue_mistake: 1.42547 1.12156 1.19392
+string_pixel_mistake: 3.74096
+row_average_red_mistake, row_average_green_mistake, row_average_blue_mistake: 1.43271 1.17221 1.20116
+row_pixel_mistake: 3.80608
+parallel_square.jpg
+string_average_red_mistake, string_average_green_mistake, string_average_blue_mistake: 2.01881 1.00579 2.17077
+string_pixel_mistake: 5.19537
+row_average_red_mistake, row_average_green_mistake, row_average_blue_mistake: 2.08394 1.0275 2.2576
+row_pixel_mistake: 5.36903
+
+average linear = 3.77
+average square = 5.28

@@ -1,0 +1,32 @@
+
+average time taken for parallel enlarging with linear splines with 1 threads: 0.39567, ускорение 1 поток/время
+
+average time taken for parallel enlarging with linear splines with 2 threads: 0.196337
+
+average time taken for parallel enlarging with linear splines with 3 threads: 0.138668
+
+average time taken for parallel enlarging with linear splines with 4 threads: 0.113761
+
+average time taken for parallel enlarging with linear splines with 5 threads: 0.100925
+
+average time taken for parallel enlarging with linear splines with 6 threads: 0.0896793
+
+average time taken for parallel enlarging with linear splines with 7 threads: 0.0812166
+
+average time taken for parallel enlarging with linear splines with 8 threads: 0.0817505
+
+average time taken for parallel enlarging with linear splines with 9 threads: 0.0890669
+
+average time taken for parallel enlarging with linear splines with 10 threads: 0.0883009
+
+average time taken for parallel enlarging with linear splines with 11 threads: 0.085946
+
+average time taken for parallel enlarging with linear splines with 12 threads: 0.0877092
+
+average time taken for parallel enlarging with linear splines with 13 threads: 0.087795
+
+average time taken for parallel enlarging with linear splines with 14 threads: 0.0848715
+
+average time taken for parallel enlarging with linear splines with 15 threads: 0.0850029
+
+average time taken for parallel enlarging with linear splines with 16 threads: 0.0852699

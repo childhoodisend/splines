@@ -1,0 +1,13 @@
+time taken for enlarging with linear splines: 0.970912
+time taken for enlarging with square splines: 1.90014
+time taken for enlarging with linear splines: 0.957908
+time taken for enlarging with square splines: 1.88658
+time taken for enlarging with linear splines: 1.00811
+time taken for enlarging with square splines: 1.882
+time taken for enlarging with linear splines: 0.968059
+time taken for enlarging with square splines: 1.89489
+time taken for enlarging with linear splines: 0.984325
+time taken for enlarging with square splines: 1.89832
+
+linear average = 0.956
+square average = 1.89
